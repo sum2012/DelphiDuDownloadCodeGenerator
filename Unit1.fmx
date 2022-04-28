@@ -1,0 +1,59 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = #24230#30424#26631#20934#30721#29983#25104#22120
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 80.000000000000000000
+    Position.Y = 360.000000000000000000
+    TabOrder = 0
+    Text = #20135#29983#31186#20256
+    OnClick = Button1Click
+  end
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Position.X = 80.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 433.000000000000000000
+    Size.Height = 249.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 429.000000000000000000
+    Viewport.Height = 245.000000000000000000
+  end
+  object Button2: TButton
+    Position.X = 248.000000000000000000
+    Position.Y = 360.000000000000000000
+    TabOrder = 3
+    Text = #21034#38500
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Position.X = 433.000000000000000000
+    Position.Y = 360.000000000000000000
+    TabOrder = 4
+    Text = #22797#21046#21040#21098#36148#26495
+    OnClick = Button3Click
+  end
+  object Label1: TLabel
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 80.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 233.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 20.000000000000000000
+    Text = #24230#30424#26631#20934#30721#29983#25104#22120
+    TabOrder = 5
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 568
+    Top = 224
+  end
+end

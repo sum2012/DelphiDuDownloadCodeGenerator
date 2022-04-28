@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/09 02:33:33.000.206,=C:\delphi\Unit1.pas</Transaction>
+    <Transaction>2022/04/28 20:17:27.448,=C:\delphi\Unit1.pas</Transaction>
+    <Transaction>2022/04/28 20:46:55.221,C:\delphi\DelphiDuDownloadCodeGenerator\Unit1.fmx=C:\delphi\Unit1.fmx</Transaction>
+    <Transaction>2022/04/28 20:46:55.221,C:\delphi\DelphiDuDownloadCodeGenerator\Unit1.pas=C:\delphi\Unit1.pas</Transaction>
+    <Transaction>2022/04/28 20:46:56.650,C:\delphi\DelphiDuDownloadCodeGenerator\Project1.dproj=C:\delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
